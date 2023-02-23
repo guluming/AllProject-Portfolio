@@ -28,9 +28,9 @@
   
 ## 🏹 SKILLS
 ### - PLATFORMS & LANGUAGE 
-![Unity](https://img.shields.io/badge/C%20Sharp-#239120.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+![csharp](https://img.shields.io/badge/C%20Sharp-#239120?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 ![csharp](https://img.shields.io/badge/-C%23-blue)
-![Unity](https://img.shields.io/badge/Unity-#FFFFFF.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+![unity](https://img.shields.io/badge/unity-#FFFFFF?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 
 
 ### - COLLABORATION & TOOLS 
