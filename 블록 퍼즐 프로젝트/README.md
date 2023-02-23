@@ -1,5 +1,5 @@
 # 🎲블럭 퍼즐 - 2D 퍼즐 아케이드 게임[모바일]
-<a href = "https://www.ninety.site/">![image](https://user-images.githubusercontent.com/105046055/182977241-f6c3d9f6-981f-4766-8b0e-179fe6776f22.png)
+![image](https://user-images.githubusercontent.com/105046055/182977241-f6c3d9f6-981f-4766-8b0e-179fe6776f22.png)
 <a href = "https://github.com/guluming/90minuteproject/tree/main/src/main/java/me/coldrain/ninetyminute">> 개발 Github 바로가기[private]<br>
  
 
