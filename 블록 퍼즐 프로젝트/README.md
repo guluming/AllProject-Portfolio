@@ -2,24 +2,19 @@
 
 ![01_title_main_LOGO](https://user-images.githubusercontent.com/105046055/220895809-6427c269-3998-4ec5-8050-114824fae69b.png)
 
-
-![01_title_main](https://user-images.githubusercontent.com/105046055/220895693-bc6ac450-52f4-4a98-a67a-75b23057be5a.png)
-
-
-
-<a href = "https://github.com/guluming/90minuteproject/tree/main/src/main/java/me/coldrain/ninetyminute">> 개발 Github 바로가기[private]<br>
+<a href = "https://github.com/guluming/BlockPuzzle_project">> 개발 Github 바로가기[private]<br>
  
 
 ## 💌 프로젝트 소개
 👉 블럭 퍼즐은 테트리스에서 한층 진화한 형태의 아케이드 게임입니다. 
 
-1️⃣ 가로 혹은 세로로 퍼즐판 채우면 !
+1️⃣ 가로 혹은 세로로 퍼즐판 채우면 점수를 얻을 수 있어요.
 
-2️⃣ 장소, 시간을 확인하고 새로운 팀에 가입할 수 있어요.
+2️⃣ 연속으로 퍼즐판을 채우거나 한 번에 많은 블럭을 없애면 추가점수가!
 
-3️⃣ 개인 포지션 점수를 쌓아 나의 축구 기록을 만들어보세요.
+3️⃣ 처음이라고 걱정하지 마세요! 첫 플레이시 친절한 튜토리얼도 제공!
 
-4️⃣ 경기 후 경기를 기록하고 팀의 성장을 확인 할 수 있어요.
+4️⃣ 만약 클래식 모드를 마스터했다면 챌린지 모드에 도전해보세요!
 
 <br><br>
  
@@ -28,8 +23,8 @@
 
 <br/>
  
-## 🔀 ERD(Entity Relationship Diagram)
-![image](https://user-images.githubusercontent.com/105046055/182979899-4011ef77-4c27-4be8-8a77-5bf26180280d.png)<br><br><br>
+## 🔀 블럭퍼즐 게임 시스템 흐름
+![블록퍼즐 게임 시스템 흐름](https://user-images.githubusercontent.com/105046055/220897172-5aefa547-3c3d-4a8f-a111-cd23c0c981fa.jpg)<br><br><br>
   
 ## ✨ SERVICE ARCHITECTURE
 ![image](https://user-images.githubusercontent.com/81298415/182985511-bd0cdf16-6299-4b03-8d95-83372ef614ea.png)
