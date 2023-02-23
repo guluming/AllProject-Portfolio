@@ -11,6 +11,7 @@
 
 김환희
 # 😎Backend(Spring)
+
 문범수
 
 박종연
@@ -20,6 +21,9 @@
 
 # 🌏WEBSITE
 http://spartacodingclub.s3-website.ap-northeast-2.amazonaws.com/
+
+# GITHUB
+https://github.com/guluming/miniproject-cafereview/tree/main/src/main/java/com/sparta/cafereview
 
 # 📺youtube
 https://www.youtube.com/watch?v=AP_K-EN9RLU
