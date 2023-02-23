@@ -16,7 +16,7 @@
 **블럭 퍼즐 - 2D 퍼즐 아케이드 게임[모바일]**<br>
 <a href = "https://github.com/guluming/AllProject-Portfolio/tree/main/%EB%B8%94%EB%A1%9D%20%ED%8D%BC%EC%A6%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">> 프로젝트 소개 바로가기<br>
   
-**좀비 서바이버 - 3D 탑 다운 슈터 게임[PC]**<br>
+**🔫좀비 서바이버 - 3D 탑 다운 슈터 게임[PC]**<br>
 <a href = "https://github.com/guluming/AllProject-Portfolio/tree/main/%EC%A2%80%EB%B9%84%20%EC%84%9C%EB%B0%94%EC%9D%B4%EB%B2%84%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8">> 프로젝트 소개 바로가기<br>
   
 **유니런 - 2D 러너 게임(플랫포머)[PC]**<br>
