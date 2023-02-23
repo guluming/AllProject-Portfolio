@@ -28,9 +28,9 @@
   
 ## 🏹 SKILLS
 ### - PLATFORMS & LANGUAGE 
-![csharp](https://img.shields.io/badge/C%20Sharp-#239120?&style=for-the-badge&logo=C%20Sharp&logoColor=white)
+![csharp](https://img.shields.io/badge/C%23-#239120?&style=for-the-badge&logo=C%23&logoColor=white)
 ![csharp](https://img.shields.io/badge/-C%23-blue)
-![unity](https://img.shields.io/badge/Unity-#FFFFFF?&style=for-the-badge&logo=Unity&logoColor=white)
+![unity](https://img.shields.io/badge/unity-#FFFFFF?&style=for-the-badge&logo=unity&logoColor=white)
 
 
 ### - COLLABORATION & TOOLS 
