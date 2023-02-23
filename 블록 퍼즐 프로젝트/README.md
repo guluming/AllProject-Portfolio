@@ -1,5 +1,12 @@
 # 🎲블럭 퍼즐 - 2D 퍼즐 아케이드 게임[모바일]
-![image](https://user-images.githubusercontent.com/105046055/182977241-f6c3d9f6-981f-4766-8b0e-179fe6776f22.png)
+
+![01_title_main_LOGO](https://user-images.githubusercontent.com/105046055/220895809-6427c269-3998-4ec5-8050-114824fae69b.png)
+
+
+![01_title_main](https://user-images.githubusercontent.com/105046055/220895693-bc6ac450-52f4-4a98-a67a-75b23057be5a.png)
+
+
+
 <a href = "https://github.com/guluming/90minuteproject/tree/main/src/main/java/me/coldrain/ninetyminute">> 개발 Github 바로가기[private]<br>
  
 
