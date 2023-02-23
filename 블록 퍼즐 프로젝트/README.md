@@ -28,9 +28,9 @@
   
 ## 🏹 SKILLS
 ### - PLATFORMS & LANGUAGE 
-![Spring](https://img.shields.io/badge/CSharp-#239120.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![csharp](https://img.shields.io/badge/csharp-#239120.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
-![csharp](https://user-images.githubusercontent.com/105046055/220899895-8bbef6b8-910e-43bd-97ac-82870e47f6b6.svg)
+
 
 ### - COLLABORATION & TOOLS 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0071C5.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
