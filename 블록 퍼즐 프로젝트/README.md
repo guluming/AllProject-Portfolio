@@ -28,7 +28,7 @@
   
 ## 🏹 SKILLS
 ### - PLATFORMS & LANGUAGE 
-![csharp](https://img.shields.io/badge/?&style=for-the-badge&logo=Spring&logoColor=white)
+![csharp](https://img.shields.io/badge/-C%23-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 
 
