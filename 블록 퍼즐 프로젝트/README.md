@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/105046055/220895809-6427c269-3998-4ec5-8050-114824fae69b.png" width="50%" height="50%">
 </p>
 
-<a href = "https://github.com/guluming/BlockPuzzle_project">> 플레이 테스트 영상 바로가기<br>
+<a href = "https://www.youtube.com/watch?v=4DA0OLcqXvs">> 플레이 테스트 영상 바로가기<br>
 <a href = "https://github.com/guluming/BlockPuzzle_project">> 개발 Github 바로가기[private]<br>
  
 
