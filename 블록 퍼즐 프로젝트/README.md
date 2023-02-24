@@ -1,7 +1,10 @@
 # 🎲블럭 퍼즐 - 2D 퍼즐 아케이드 게임[모바일]
 
-<center><img src="https://user-images.githubusercontent.com/105046055/220895809-6427c269-3998-4ec5-8050-114824fae69b.png" width="50%" height="50%"></center>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/105046055/220895809-6427c269-3998-4ec5-8050-114824fae69b.png" width="50%" height="50%">
+</p>
 
+<a href = "https://github.com/guluming/BlockPuzzle_project">> 플레이 테스트 영상 바로가기<br>
 <a href = "https://github.com/guluming/BlockPuzzle_project">> 개발 Github 바로가기[private]<br>
  
 
@@ -14,7 +17,7 @@
 
 3️⃣ 처음이라고 걱정하지 마세요! 첫 플레이시 친절한 튜토리얼도 제공!
 
-4️⃣ 만약 클래식 모드를 마스터했다면 챌린지 모드에 도전해보세요!
+4️⃣ 만약 클래식 모드를 마스터했다면 챌린지 모드에 도전해보세요![베타 버전 이후 ]
 
 <br><br>
  
@@ -24,13 +27,15 @@
 <br/>
  
 ## 🔀 블럭퍼즐 게임 시스템 흐름
-![블록퍼즐 게임 시스템 흐름](https://user-images.githubusercontent.com/105046055/220897172-5aefa547-3c3d-4a8f-a111-cd23c0c981fa.jpg)<br><br><br>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/105046055/220897172-5aefa547-3c3d-4a8f-a111-cd23c0c981fa.jpg" width="50%" height="50%">
+</p><br><br><br>
   
 ## 🏹 SKILLS
 ### - PLATFORMS & LANGUAGE 
 ![csharp](https://img.shields.io/badge/-C%23-blue)
 ![unity](https://img.shields.io/badge/-unity-white)
-
+<br>
 
 ### - COLLABORATION & TOOLS 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
@@ -41,14 +46,11 @@
 <br><br><br>
   
 ## 🛰️ FEATURES
-> 1. 
-- Spring Security, JWT 인증 방식으로 로그인 구현<br><br>
+> 1. 퍼즐판, 퍼즐 블록 Prefabs를 이용한 생성
+- ㅃㅃㅃㅃㅃㅃㅃㅂ<br><br>
 
-> 2. 팀 등록/가입/팀원 모집
-- 새로운 팀을 등록하거나 기존에 있는 팀에 가입
-- 팀 등록은 사용자당 1개 팀만 생성 가능
-- 팀 가입의 경우 제한 없음
-- 팀 목록 조회, 대결 목록 조회 [지역/요일/시간/승률/팀 이름] 동적 필터링<br><br>
+> 2. Unity Editor를 이용한 블록 데이터 생성
+- ㅃㅃㅃㅃㅃㅃㅃㅃㅃㅃㅃ<br><br>
   
 > 3. 대결 등록/수락/신청
 - 팀을 생성한 사용자의 경우 대결 등록을 통해 대결 신청을 받을 수 있음
