@@ -5,7 +5,7 @@
 </p>
 
 <a href = "https://play.google.com/store/apps/details?id=block.puzzle.blast.x8.freegame.toy">> 플레이 스토어 바로가기<br>
-<a href = "https://github.com/guluming/BlockPuzzle_project">> 개발 Github 바로가기[private]<br>
+<a href = "https://github.com/guluming/BlockPuzzle_project">> 개발 Github 바로가기<br>
  
 
 ## 💌 프로젝트 소개
